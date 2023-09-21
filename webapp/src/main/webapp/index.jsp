@@ -16,6 +16,9 @@
     <label for="Mother name"><b>Mother Name</b></label>
     <input type="text" placeholder="Mother Name" name="Mother Name" id="Mother Name" required>
     <br>    
+    <label for="Father name"><b>Father Name</b></label>
+    <input type="text" placeholder="Father Name" name="Father Name" id="Father Name" required>
+    <br>
     <hr>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
