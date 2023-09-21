@@ -22,6 +22,9 @@
     <label for="Son name"><b>Son Name</b></label>
     <input type="text" placeholder="Son Name" name="Son Name" id="Son Name" required>
     <br>
+    <label for="Daughter name"><b>Daughter Name</b></label>
+    <input type="text" placeholder="Daughter Name" name="Daughter Name" id="Daughter Name" required>
+    <br>    
     <hr>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
