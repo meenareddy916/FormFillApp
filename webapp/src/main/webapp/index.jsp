@@ -31,6 +31,10 @@
     <label for="SonInLaw name"><b>SonInLaw Name</b></label>
     <input type="text" placeholder="SonInLaw Name" name="SonInLaw Name" id="SonInLaw Name" required>
     <br>
+    <label for="DaughterInLaw name"><b>DaughterInLaw Name</b></label>
+    <input type="text" placeholder="DaughterInLaw Name" name="DaughterInLaw Name" id="DaughterInLaw Name" required>
+    <br>
+
     <hr>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
@@ -40,4 +44,5 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
+
 </form>
